@@ -10,7 +10,8 @@ self.addEventListener('install', (event) => {
                         "./src/master.css",
                         './images/logo192.png',
                         './images/logo512.png',
-                        './src/getListItem.js'
+                        './src/getListItem.js',
+                        './images/11.png'
                     ]
                 );
             })
